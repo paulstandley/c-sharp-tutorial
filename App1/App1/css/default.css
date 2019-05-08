@@ -1,0 +1,12 @@
+﻿body{
+    margin:0;
+    padding:0;
+}
+.body_rap {
+    background-color:wheat;
+}
+h1 {
+    color:aliceblue;
+    background-color:darkcyan;
+}  
+
